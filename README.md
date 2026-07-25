@@ -221,7 +221,7 @@ sudo apt-get install build-essential cmake git
 The codebase relies on GoogleTest as an external git submodule for its unit testing suite. You must clone the repository recursively to automatically initialise and pull down the testing framework components:
 
 ```shell
-git clone --recursive [https://github.com/l1am-farrugia/cppOrderbook.git](https://github.com/l1am-farrugia/cppOrderbook.git)
+git clone --recursive https://github.com/l1am-farrugia/cppOrderbook.git
 ```
 
 ## Engine Compilation:
